@@ -1,0 +1,37 @@
+6.1
+new_array - new_size_array
+// новый массив после изменения размера исходного
+stack - executor_stack
+// новый стэк, созданный в рамках выполнения функции класса stringExecutor
+first - first_number_of_expression
+// первое число выражения в функции, вычисляющей результат
+value - cow_counter_value
+// значение счетчика коров в функции, вычисляющей количество животных, подходящих под конкретные условия
+output_string - string_after_serialization
+// выходная строка после работы функции сериализации
+6.2
+compression_level
+API_pointer
+recursion_counter
+stack_capacity
+6.3 
+capital_letter_counter 
+// счетчик заглавных букв в функции, вычисляющей количество заглавных букв в строке
+age_of_cat
+// возраст кота в классе кот
+cleaner_work_experince
+// стаж работы в классе "уборщик"
+6.4 
+count - count_of_added_item
+// счетчик добавленных символов в динамическом массиве
+index - index_free_slot
+// индекс своодного места в Хэш-таблице
+sum - ascii_sum_of_character
+// сумма кодов символов в строке
+n - input_number
+// число, поступающее на вход функции
+read - read_number
+// считываемое число
+
+
+
