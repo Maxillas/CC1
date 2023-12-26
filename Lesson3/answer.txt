@@ -1,0 +1,31 @@
+7.1
+flag - is_digit
+// признак того, что вводимый символ является цифрой
+flag - is_orthogonal
+// признак ортогональности матрицы
+full - is_full
+// признак заполненности массива
+nice - is_found 
+// признак успешного нахождения элемента в массиве
+flag - is_capital
+// признак того, что буква заглавная
+7.2
+flag - done 
+// признак завершения цикла
+flag - found
+// признак наличия элемента в массиве
+7.3 
+for i in string: - for letter in string
+for i in list: - for element in massive
+for i in key - for letter in key
+7.4 
+for i in range (0, n) - for i in range (begin, end)
+// цикл, проходящий по всему массиву
+active, inactive - active_minutes, inactive_minutes
+// время активности и неактивности
+7.5
+temp - array_before_insert
+// переменная хранящая состояние массива до вставки туда нового элемента
+temp - next_node_old
+// переменная, хранящая указатель на следующую ноду до очистки
+
